@@ -5,7 +5,3 @@
 <a href="https://github.com/gregoriusjimmy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriusjimmy&layout=compact&theme=rose_pine" />
 </a>
-<a href="https://github.com/gregoriusjimmy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gregoriusjimmy&theme=rose_pine&layout=compact" />
-</a>
- 
