@@ -1,5 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gregoriusjimmy&count_private=true&include_all_commits=true$show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gregoriusjimmy&count_private=true&include_all_commits=true$show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriusjimmy&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriusjimmy&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gregoriusjimmy&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
