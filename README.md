@@ -3,3 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriusjimmy&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gregoriusjimmy&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+  
