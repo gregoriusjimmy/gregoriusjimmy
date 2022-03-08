@@ -2,4 +2,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriusjimmy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[My LeetCode](https://leetcode.com/gregoriusjimmy/)
